@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E941BD65-18EF-6B81-C2AC-7E988E303E44}") = "2D Jumper", "Assembly-CSharp.csproj", "{91DEF406-37C1-A67A-B5BB-5D442E7D4608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DEF406-37C1-A67A-B5BB-5D442E7D4608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DEF406-37C1-A67A-B5BB-5D442E7D4608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DEF406-37C1-A67A-B5BB-5D442E7D4608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DEF406-37C1-A67A-B5BB-5D442E7D4608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
